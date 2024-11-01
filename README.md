@@ -4,4 +4,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Введение в сверточные НС](https://github.com/pzuboff/fashion_mnist_classifier/blob/main/fashion_mnist_classifier.ipynb) |  Цель проекта – достичь точности классификации не менее 88% на тестовой выборке | *PyTorch, torchvision, matplotlib* |
+| [Многослойная нейронная сеть](https://github.com/pzuboff/fashion_mnist_classifier/blob/main/fashion_mnist_classifier.ipynb) |  Цель проекта – достичь точности классификации не менее 88% на тестовой выборке | *PyTorch, torchvision, matplotlib* |
